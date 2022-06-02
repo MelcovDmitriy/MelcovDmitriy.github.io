@@ -1,0 +1,192 @@
+body {
+font-family: Arial, Helvetica, sans-serif;
+}
+nav {
+    width: 100%;
+    height: 60px;
+    background-color: #344051;
+}
+
+.logo {
+color: white;
+font-size: 28px;
+line-height: 60px;
+padding-left: 250px;
+float: left;
+}
+
+.menu {
+    float: left;
+    padding-left: 200px;
+}
+
+.menu li {
+    float: left;
+    color: white;
+    line-height: 60px;
+    text-transform: uppercase;
+    font-size: 16px;    
+    margin-left: 40px;
+}
+
+.main1 {
+    width: 100%;
+    height: calc(100% - 60px);
+    background: url(../img/man.png) 95% 100%/auto 85% no-repeat, url(../img/fon1.jpg) center/cover no-repeat
+}
+
+
+.title_container {
+    float: left;
+    margin: 250px 0px 0px 250px;
+    color: #2c384a;
+}
+
+.title_container h1 {
+    font-size: 65px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.title_container h4 {
+    font-size: 15px;
+    font-weight: bold;
+    text-align: center;
+    margin: 30px;
+    color: #79818d;
+}
+
+.button_main {
+    margin: 35px 0px 0px 130px;
+}
+
+.button_main img{
+    margin-left: 15px;
+}
+
+.input_main {
+    line-height: 40px;
+    margin: -40px 120px;
+}
+
+#inp1 {
+    margin-left: 42px;
+    color: #79818d;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+#inp2 {
+    margin-left: 48px;
+    color: #79818d;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.header>h2 {
+    font-weight: bold;
+    color: #4c5563; 
+    margin: 45px 0px 0px 47%;
+    font-size: 25px;
+    text-transform: uppercase;
+
+}
+
+#cherta1 {
+    padding: 25px 22px;
+}
+
+#cherta2 {
+    margin: 44px -125px;
+}
+
+#cherta3 {
+    margin: 44px -87px;
+}
+
+#cherta4 {
+    margin: 22px 100px;
+}
+
+#header_about {
+    background: url(../img/fon2);
+}
+
+#man2 {
+    padding-left: 44%;
+}
+
+.About1 {
+    color: #3f495a;
+    font-size: 15px;
+    text-align: left;
+    font-weight: 500;
+    letter-spacing: -0.5px;
+}
+#p1 {
+    width: 730px;
+    margin: 20px 350px;
+}
+
+#p2 {
+    padding: 20px 0px;
+    width: 730px;
+    margin: 20px 350px;
+}
+
+.submit_rezume {
+    width: 100%;
+    margin: 5px 46%;
+}
+
+.download1 {
+    margin: -25px 10px;
+}
+
+#submit1 {
+    font-size: 14px;
+    padding-left: 5px;
+    color: #6f707e;
+    background-color: #fff;
+    font-weight: 600;
+}
+
+#header_skill {
+    margin-top: 200px;
+}
+
+.skill1 {
+    color: #cf7600;
+}
+
+.About1 p {
+    text-align: center;
+    width: 210px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
